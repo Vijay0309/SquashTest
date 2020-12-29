@@ -1,0 +1,2 @@
+# SquashTest
+Squashing commits example
